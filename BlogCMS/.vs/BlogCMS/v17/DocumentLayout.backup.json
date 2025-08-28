@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day31\\BlogCMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|c:\\wipro\\day31\\blogcms\\blogcms\\blogcms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CFB212C-FB50-47BD-BC18-DE695B49ACC2}|BlogCMS\\BlogCMS.csproj|solutionrelative:blogcms\\blogcms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogCMS\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\appsettings.json",
+              "RelativeToolTip": "BlogCMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T15:36:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "BlogCMS\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:36:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogCMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:35:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\DTOs\\BlogPostDto.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\BlogPostDto.cs",
+              "RelativeToolTip": "BlogCMS\\DTOs\\BlogPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:32:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "BlogCMS\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:30:53.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Models\\User.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\User.cs",
+              "RelativeToolTip": "BlogCMS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:26:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BlogCMS\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:27:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Program.cs",
+              "RelativeToolTip": "BlogCMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:44:19.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "BlogCMS\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:31:41.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Models\\Category.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Models\\Category.cs",
+              "RelativeToolTip": "BlogCMS\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:28:14.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogCMS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlogCMS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:29:05.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogCMS.csproj",
+              "DocumentMoniker": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\BlogCMS.csproj",
+              "RelativeDocumentMoniker": "BlogCMS\\BlogCMS.csproj",
+              "ToolTip": "C:\\wipro\\Day31\\BlogCMS\\BlogCMS\\BlogCMS.csproj",
+              "RelativeToolTip": "BlogCMS\\BlogCMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T15:15:05.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
